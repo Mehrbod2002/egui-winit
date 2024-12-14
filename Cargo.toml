@@ -65,7 +65,7 @@ ahash = { version = "0.8.11", default-features = false, features = [
 log = { version = "0.4", features = ["std"] }
 raw-window-handle = "0.6.0"
 web-time = "1.1.0"
-winit = { git = "https://github.com/mehrbod2002", branch = "winit", default-features = false }
+winit = { git = "https://github.com/mehrbod2002/winit", branch = "window_attribute", default-features = false }
 
 #! ### Optional dependencies
 
